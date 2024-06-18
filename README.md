@@ -93,7 +93,7 @@
 
 # 许嵩
 
-<img src="README.assets/xusong.png" alt="xusong" style="zoom:25%;" />
+<img src="xusong.png" alt="xusong" style="zoom:25%;" />
 
 **简介**：许嵩，1986年5月14日出生于安徽省合肥市，毕业于安徽医科大学，中国内地男歌手、音乐人，[海蝶音乐](https://baike.baidu.com/item/海蝶音乐/6914632?fromModule=lemma_inlink)公司（现为太合音乐集团）音乐总监。
 
